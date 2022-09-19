@@ -1,1 +1,1 @@
-# README for pull-request-demo
+# README for pull-request-demo Git Guide
